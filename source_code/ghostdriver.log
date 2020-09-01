@@ -1,0 +1,1592 @@
+[INFO  - 2020-08-31T08:11:41.009Z] GhostDriver - Main - running on port 49205
+[INFO  - 2020-08-31T08:11:45.321Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-08-31T08:11:45.321Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.customHeaders:  - {}
+[INFO  - 2020-08-31T08:11:45.321Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-08-31T08:11:45.321Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9c32ee40-eb61-11ea-87a0-156be1dc28fc
+[ERROR - 2020-08-31T08:11:48.354Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:11:48.354Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:11:53.510Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:11:53.510Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:03.398Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:03.398Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:07.021Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:07.021Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:10.928Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:10.928Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:25.029Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:25.029Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:34.739Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:34.739Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:38.334Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:38.334Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:42.231Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:42.231Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:45.553Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:45.553Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:49.519Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:12:49.519Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:03.287Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:03.287Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:14.236Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:14.236Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:19.936Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:19.936Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:23.230Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:23.230Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:26.493Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:13:26.493Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:11.726Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:11.726Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:15.169Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:15.169Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:26.087Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:26.087Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:35.690Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:35.690Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:46.161Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:46.161Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:49.473Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:49.473Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:53.816Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:53.816Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:58.139Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:14:58.139Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:02.564Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:02.564Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:06.227Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:06.227Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:09.603Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:09.603Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:12.909Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:12.909Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:16.669Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:16.669Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:19.946Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:19.946Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:23.582Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:23.582Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:27.360Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:27.360Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:31.550Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:31.550Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:35.088Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:35.088Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:45.662Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:45.662Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:55.160Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:15:55.160Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:06.327Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:06.327Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:10.579Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:10.580Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:15.277Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:15.277Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:19.336Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:19.336Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:28.962Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:28.962Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:16:41.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-08-31T08:16:42.677Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:42.677Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:56.642Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:16:56.642Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:00.568Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:00.569Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:04.520Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:04.520Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:09.765Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:09.765Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:14.464Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:14.464Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:18.287Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:18.288Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:22.239Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:22.239Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:26.379Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:26.379Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:29.671Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:29.671Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:33.118Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:33.118Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:36.350Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:36.350Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:39.888Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:17:39.888Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:18:53.343Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:18:53.343Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:18:57.310Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:18:57.310Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:07.521Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:07.521Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:10.810Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:10.810Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:14.584Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:14.584Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:18.584Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:18.584Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:21.801Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:21.801Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:25.078Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:25.078Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:28.994Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:28.994Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:33.337Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:33.337Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:36.738Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:36.738Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:40.128Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:40.128Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:43.930Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:43.930Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:57.531Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:19:57.531Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:07.820Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:07.820Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:18.189Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:18.189Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:28.611Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:28.611Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:32.067Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:32.067Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:35.729Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:35.729Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:39.241Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:39.241Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:49.166Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:49.166Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:52.557Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:52.557Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:56.006Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:20:56.006Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:21.680Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:21.680Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:25.207Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:25.207Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:29.236Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:29.236Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:33.692Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:33.692Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:37.783Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:37.783Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:21:41.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-08-31T08:21:48.631Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:48.631Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:52.317Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:52.317Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:57.901Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:21:57.901Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:02.562Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:02.562Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:06.863Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:06.863Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:10.845Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:10.845Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:20.829Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:20.829Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:25.325Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:25.325Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:29.432Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:29.432Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:33.488Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:33.488Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:37.195Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:37.195Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:40.888Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:40.888Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:51.331Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:22:51.331Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:02.711Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:02.711Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:13.722Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:13.722Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:21.021Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:21.021Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:32.095Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:32.095Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:35.774Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:35.774Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:39.652Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:39.652Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:43.371Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:23:43.371Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:09.428Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:09.428Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:13.438Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:13.438Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:16.841Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:16.841Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:20.866Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:20.867Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:28.414Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:28.414Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:33.487Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:33.487Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:37.827Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:37.827Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:41.782Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:41.782Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:45.998Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:45.998Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:49.624Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:49.624Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:53.814Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:53.814Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:57.928Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:24:57.928Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:02.049Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:02.050Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:05.767Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:05.767Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:09.971Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:09.971Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:14.163Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:14.163Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:17.890Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:17.890Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:21.687Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:21.688Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:25.971Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:25.971Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:29.823Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:29.823Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:41.014Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:41.015Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:45.357Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:45.357Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:49.487Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:49.488Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:53.864Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:53.864Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:57.543Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:25:57.544Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:01.417Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:01.418Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:05.651Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:05.651Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:09.441Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:09.441Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:14.263Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:14.263Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:27.430Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:27.430Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:39.053Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:39.053Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:26:41.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-08-31T08:26:43.666Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:43.666Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:47.800Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:47.800Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:51.221Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:51.221Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:54.769Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:54.770Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:58.228Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:26:58.228Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:08.400Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:08.400Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:18.595Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:18.595Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:29.155Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:29.155Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:32.846Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:32.846Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:58.266Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:27:58.266Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:02.401Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:02.401Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:06.394Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:06.394Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:31.743Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:31.744Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:35.323Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:35.324Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:39.793Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:39.793Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:44.281Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:44.281Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:47.657Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:28:47.658Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:42.975Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:42.975Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:46.018Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:46.018Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:56.958Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:29:56.958Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:01.626Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:01.626Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:05.959Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:05.960Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:09.676Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:09.676Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:14.064Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:14.064Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:18.178Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:18.178Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:28.116Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:28.116Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:31.968Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:31.968Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:36.402Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:36.402Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:40.982Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:40.983Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:45.695Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:45.696Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:59.081Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:30:59.081Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:09.550Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:09.551Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:12.927Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:12.927Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:16.714Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:16.714Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:20.046Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:20.046Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:24.101Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:24.101Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:28.377Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:28.377Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:38.203Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:38.203Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:31:41.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-08-31T08:31:41.889Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:41.889Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:45.803Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:31:45.803Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:11.089Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:11.089Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:15.135Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:15.135Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:29.292Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:29.292Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:42.917Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:42.918Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:45.985Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:45.985Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:49.700Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:49.700Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:53.152Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:53.152Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:56.318Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:56.318Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:59.693Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:32:59.693Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:03.425Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:03.426Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:06.906Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:06.907Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:32.850Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:32.850Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:35.814Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:35.814Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:39.145Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:39.146Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:53.097Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:33:53.097Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:14.730Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:14.730Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:17.978Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:17.978Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:22.096Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:22.096Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:25.615Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:25.615Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:35.575Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:35.575Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:39.422Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:39.422Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:44.548Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:44.548Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:50.117Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:50.117Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:56.884Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:34:56.884Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:01.065Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:01.065Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:04.657Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:04.657Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:08.311Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:08.311Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:18.677Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:18.677Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:28.647Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:28.647Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:39.812Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:39.813Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:44.074Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:44.074Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:48.157Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:48.157Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:51.849Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:35:51.849Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:02.130Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:02.130Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:12.477Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:12.477Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:22.353Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:22.353Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:26.853Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:26.853Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:30.763Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:30.763Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:34.993Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:34.993Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:36:41.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2020-08-31T08:36:54.523Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:54.523Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:59.182Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:36:59.182Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:03.400Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:03.400Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:06.969Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:06.969Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:17.782Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:17.783Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:26.841Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:26.841Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:37.918Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:37.918Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:41.711Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:41.711Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:45.342Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:45.342Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:48.979Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:48.979Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:53.388Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:53.388Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:57.348Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - msg: Unhandled promise rejection TypeError: [object Object],[object Object] is not iterable!
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-31T08:37:57.349Z] Session [9c32ee40-eb61-11ea-87a0-156be1dc28fc] - page.onError - stack:
+  (anonymous function) (https://i-invdn-com.akamaized.net/js/n/utils-0.16.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-31T08:41:41.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T08:46:41.052Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T08:51:41.053Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:26:16.398Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:31:16.393Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:36:16.394Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:41:16.405Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:46:16.410Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:51:16.413Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T10:56:16.426Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T11:01:16.434Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T11:06:16.443Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T11:11:16.443Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-31T11:16:16.445Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
