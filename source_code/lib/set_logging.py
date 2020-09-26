@@ -6,6 +6,8 @@ Date Creation : 5 Aug 2020
 import logging
 import os
 import sys
+from datetime import datetime
+
 
 #logging level dict
 #https://docs.python.org/3/library/logging.html#levels
@@ -14,13 +16,11 @@ dict_setlevel = {"CRITICAL" : 50,
                 "WARNING"  : 30,
                 "INFO"     : 20,
                 "DEBUG"    : 10}
-
-
+#create the dummy date string for the logger file name
 
 def set_logging(fp      : "folder path for log file" = None,
                 fn      : "file name for log file"   = None,
                 setlevel: "logging setlevel"         = "Info"):
-    
     
     """
     Description:
@@ -36,9 +36,12 @@ def set_logging(fp      : "folder path for log file" = None,
     int_setlevel = dict_setlevel.get(setlevel.upper(), "20")
     
     #(2) create the root logger
-    logger = logging.getLogger(__name__)
+    logger = logging.getLogger()
     logger.setLevel(int_setlevel)
-  
+
+    str_date = datetime.now().strftime("%y%m%d")
+    fn       = fn  + "_" + str_date + ".log"
+
     #(3) create the handler
     fh = logging.FileHandler(os.path.join(fp, fn))
     ch = logging.StreamHandler(sys.stdout)
