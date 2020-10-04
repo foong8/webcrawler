@@ -1,0 +1,16 @@
+{
+"cols_name":
+        {
+        "attr_1" : "CompanyName",
+        "attr_2" : "Hyperlink",
+        "attr_3" : "DownloadStatus",
+        "attr_4" : "DownloadErrorFrequency",
+        "attr_5" : "Remark",
+        "attr_6" : "VolumnIndicatorProcess",
+        "attr_7" : "VolumnIndicatorResult",
+        "attr_8" : "Empty",
+        "attr_9" : "Empty"
+        }
+}
+
+

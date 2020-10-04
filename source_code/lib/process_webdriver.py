@@ -57,7 +57,7 @@ def get_full_lists_of_malaysia_stocks(dict_configInfo = None,
     for tag_tr in HTMLTable.findAll("tr"):
         tag_td = tag_tr.find_all("td")
         #loop the column by td
-        for tag_class in tag_td:
+        for tag_class in tag_td:                    
             #filter the column by specific class value
             if "plusIconTd" in tag_class["class"]:
                 tag_a = tag_class.find_all("a")
@@ -65,6 +65,14 @@ def get_full_lists_of_malaysia_stocks(dict_configInfo = None,
                 for attributes in tag_a:
                     list_companyname.append(attributes["title"])
                     list_href.append(attributes["href"])
+
+            #if the last price is more than RM 2 then skip
+            if "-last" in str(tag_class["class"]):
+                for last_price in tag_class:
+                    if float(last_price) > 2.00:            
+                        list_companyname.pop()
+                        list_href.pop()
+
 
     #close the webpage
     obj_driver.close()
