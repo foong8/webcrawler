@@ -1,0 +1,4 @@
+[utils.py:141 -    _init_num_threads() ] 2020-10-31 11:58:35,089 - INFO - NumExpr defaulting to 8 threads.
+[Main_Append_Existing_Files.py:40 -                 main() ] 2020-10-31 17:06:20,450 - INFO - Appned Done
+[Main_Indicator_VolumeSpike.py:43 -                 main() ] 2020-10-31 17:07:05,479 - INFO - Volume Spike Done
+[Main_Indicator_VolumeSpike.py:43 -                 main() ] 2020-10-31 17:09:45,037 - INFO - Volume Spike Done

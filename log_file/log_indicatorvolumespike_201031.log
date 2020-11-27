@@ -1,0 +1,5 @@
+[Main_Indicator_VolumeSpike.py:43 -                 main() ] 2020-10-31 17:07:53,083 - INFO - Volume Spike Done
+[cls_dataframe.py:48 -  run_multiprocessing() ] 2020-10-31 21:46:01,408 - INFO - testing
+[Main_Indicator_VolumeSpike.py:45 -                 main() ] 2020-10-31 21:46:05,750 - INFO - Volume Spike Done
+[cls_dataframe.py:65 -  run_multiprocessing() ] 2020-10-31 21:46:30,032 - INFO - testing
+[Main_Indicator_VolumeSpike.py:45 -                 main() ] 2020-10-31 21:46:32,436 - INFO - Volume Spike Done

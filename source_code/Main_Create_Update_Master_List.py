@@ -25,7 +25,7 @@ def main():
 
     # create a class to create the dataframe
     df_processing = SubclassedDataFrame.initial_df_based_json(configInfo.tablelookup["cols_processing"])
-    
+
     # get the lists of company name and hyperlink
     df_processing = process_webdriver.get_full_lists_of_malaysia_stocks(
                                                 dict_configInfo=configInfo.fp,
@@ -40,7 +40,6 @@ def main():
                          index=False)
 
     obj_logger.info("MalaysiaStock_masterlists.csv has been updated.")
-
 
 if __name__ == "__main__":
 

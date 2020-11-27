@@ -27,7 +27,7 @@ def set_chromedriver(fp_download = None,
         chromeOptions.add_experimental_option("prefs",prefs)
         
         # (3) set up driver
-        driver = webdriver.Chrome(fp_driver, options = chromeOptions)
+        driver = webdriver.Chrome(executable_path = fp_driver, chrome_options = chromeOptions)
 
     else:
 
@@ -39,7 +39,7 @@ def set_chromedriver(fp_download = None,
         driver_option.binary_location = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
         driver = webdriver.Chrome(executable_path = fp_driver, 
                                   chrome_options = driver_option)
-    
+
     # return driver
     return driver
 

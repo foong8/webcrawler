@@ -70,9 +70,14 @@ def get_full_lists_of_malaysia_stocks(dict_configInfo = None,
             if "-last" in str(tag_class["class"]):
                 for last_price in tag_class:
                     if float(last_price) > 2.00:            
+                        logger.info(last_price)
                         list_companyname.pop()
                         list_href.pop()
-
+                    elif float(last_price) < 0.5:
+                        logger.info(last_price)
+                        list_companyname.pop()
+                        list_href.pop()
+                        
 
     #close the webpage
     obj_driver.close()
@@ -93,7 +98,8 @@ def download_the_data(list_values      = None,
 
     str_websitename_investing        = "https://www.investing.com"
 
-    #(1) Setup object driver
+
+        #(1) Setup object driver
     driver_option = Options()
     driver_option.add_argument("--headless")
     driver_option.binary_location = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
@@ -101,6 +107,7 @@ def download_the_data(list_values      = None,
                                   chrome_options = driver_option)
 
     for list_value in list_values:
+    
         str_url     = str_websitename_investing + list_value[1]
         fn_download = os.path.join(dict_configInfo.fp["fp_his_download"], list_value[0] + ".csv")
         #if any error hit then alawys is_download_success return to false

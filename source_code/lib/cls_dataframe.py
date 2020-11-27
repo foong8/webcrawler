@@ -1,6 +1,12 @@
+
+
 import pandas as pd
 from multiprocessing import Queue
 from multiprocessing import Process
+import logging
+
+# logger = logging.getLogger()
+
 
 class SubclassedSeries(pd.Series):
 
@@ -36,27 +42,30 @@ class SubclassedDataFrame(pd.DataFrame):
     def run_multiprocessing(self, 
                             int_parts    = None,
                             str_funcname = None,
-                            configInfo   =  None):
+                            configInfo   = None,
+                            obj_logger   = None):
 
         output = Queue()
         list_temp = self.values.tolist()
-        
+
         #break down the dataframe into parts
         # div = [list_values[i::int_parts] for i in range(int_parts)]
         div = [list_temp[i::int_parts] for i in range(int_parts)]
-        
-        #create the multiprocessing
-        processes = [Process(target=str_funcname,args=(div[i],configInfo, output)) for i in range(int_parts)]
 
+        #create the multiprocessing
+        processes = [Process(target = str_funcname,
+                             args   = (div[i], configInfo, output)) for i in range(int_parts)]
         #Run processes
-        for p in processes:p.start()
+        for p in processes:
+            p.start()
 
         #get process results from the output queue
         results = [(output.get()) for p in processes]
         results = pd.concat(results)
-        
+
         #exit the completed process
-        for p in processes:p.join()
+        for p in processes:
+            p.join()
 
         return SubclassedDataFrame(results)
 

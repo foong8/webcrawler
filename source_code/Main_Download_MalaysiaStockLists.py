@@ -30,12 +30,14 @@ def main():
     df_processing = SubclassedDataFrame(
                         pd.read_csv(os.path.join(configInfo.fp["fp_masterlist"], "MalaysiaStock_MasterLists.csv")))
 
-    df_processing = df_processing.run_multiprocessing(int_parts = 4,
+    df_processing = df_processing.run_multiprocessing(int_parts = 1,
                                                       str_funcname = process_webdriver.download_the_data,
-                                                      configInfo = configInfo)
+                                                        configInfo = configInfo)
 
     df_processing = df_processing.rephrase_columns_based_json(configInfo.tablelookup["cols_processing"])
     df_processing.to_csv(os.path.join(configInfo.fp["fp_masterlist"], "Process_MalaysiaStock_MasterLists.csv"), index = False)
+
+    obj_logger.info("Download file done")
 
 if __name__ == "__main__":
 

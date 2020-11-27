@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['source_code\\Main_Download_MalaysiaStockLists.py', 'source_code\\Main_Create_Update_Master_List.py', 'source_code\\Main_Indicator_VolumeSpike.py', 'source_code\\Main_Append_Existing_Files.py', 'source_code\\lib\\config.py', 'source_code\\lib\\set_logging.py', 'tables\\cols_processing.json', 'master_list\\MalaysiaStock_MasterLists.csv']
+recent_files = ['source_code\\lib\\cls_dataframe.py', 'source_code\\Main_RUNALL.py', 'source_code\\Main_Indicator_VolumeSpike.py', 'source_code\\lib\\process_datamanipulation.py', 'source_code\\lib\\config.py', 'source_code\\lib\\process_webdriver.py', 'source_code\\lib\\set_logging.py', 'source_code\\lib\\set_webdriver.py', 'source_code\\Main_SendEmail.py', 'source_code\\Main_Download_MalaysiaStockLists.py', 'source_code\\Main_Create_Update_Master_List.py', 'source_code\\Main_Append_Existing_Files.py', 'database\\Acme Holdings Bhd.csv', 'historical_download\\Acme Holdings Bhd.csv']
 
